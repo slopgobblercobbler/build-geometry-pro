@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "buildgeometry",
+  "version": "1.0.0",
+  "name": "BuildGeometry Pro",
+  "description": "Client-side mathematical structure CAD and hologram curve projector. Features algorithmic voxel generators for circles, ellipses, catenary arches, parabolic domes, hollow spheres, spirals, and polyhedra with real-time layer slicing and angle-snapped cursor guides.",
+  "authors": [
+    "slopgobblercobbler"
+  ],
+  "contact": {
+    "homepage": "https://github.com/slopgobblercobbler/build-geometry-pro",
+    "sources": "https://github.com/slopgobblercobbler/build-geometry-pro",
+    "issues": "https://github.com/slopgobblercobbler/build-geometry-pro/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/buildgeometry/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.slopgobbler.buildgeometry.BuildGeometryMod"
+    ],
+    "modmenu": [
+      "com.slopgobbler.buildgeometry.compat.ModMenuCompat"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.20.1"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

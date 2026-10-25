@@ -1,0 +1,18 @@
+{
+  "category.buildgeometry.main": "BuildGeometry Pro CAD",
+  "key.buildgeometry.toggle_projection": "Toggle Hologram Projection",
+  "key.buildgeometry.next_layer": "Next Layer Slice",
+  "key.buildgeometry.prev_layer": "Previous Layer Slice",
+  "key.buildgeometry.cycle_slice_mode": "Cycle Slicing Mode",
+  "key.buildgeometry.toggle_snap": "Cycle Angle Snap Step",
+  "key.buildgeometry.cycle_lock_mode": "Cycle Axis Constraint Lock",
+  "key.buildgeometry.rebuild_shape": "Project CAD Shape at Cursor",
+
+  "shape.buildgeometry.circle": "Circle",
+  "shape.buildgeometry.ellipse": "Ellipse",
+  "shape.buildgeometry.catenary_arch": "Catenary Arch",
+  "shape.buildgeometry.parabolic_dome": "Parabolic Dome",
+  "shape.buildgeometry.sphere": "Sphere",
+  "shape.buildgeometry.spiral": "Spiral",
+  "shape.buildgeometry.polyhedron": "Polyhedron"
+}
